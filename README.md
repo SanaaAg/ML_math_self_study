@@ -1,0 +1,3 @@
+# Read on to know what this repository is about
+
+Here I will be posting resources which help me in learning about ML. These could be concepts, links, blogs, book excerpts...
