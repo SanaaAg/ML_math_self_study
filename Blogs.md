@@ -2,8 +2,10 @@
 
 1. [Machine learning mastery] (https://machinelearningmastery.com/start-here/) 
 
-2. Learned about the definitions of concepts Bias and Variance here -- https://towardsdatascience.com/systematically-tuning-your-model-by-looking-at-bias-and-variance-4986662315b2
+2. Learned about the definitions of Bias and Variance here -- https://towardsdatascience.com/systematically-tuning-your-model-by-looking-at-bias-and-variance-4986662315b2
 Also helped me understand how to leverage bias and variance to create a better fitting model using hyperparameter tuning.
 
-3. A nice explanation of Softmax regression -- http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
+3. Bias/Variance tradeoff explanation -- https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
+
+4. A nice explanation of Softmax regression -- http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
 
