@@ -9,4 +9,7 @@ Also helped me understand how to leverage bias and variance to create a better f
 
 4. A nice explanation of Softmax regression -- http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
 
-5. Decision trees basics and hyperparameters -- https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956
+5. Decision trees basics and hyperparameters -- https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956 and
+https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+
+6. Random forests: understanding how errors cancel out over averaging and relative importance of features -- https://builtin.com/data-science/random-forest-algorithm
