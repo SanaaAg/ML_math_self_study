@@ -18,3 +18,7 @@ https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
 
 8, Understanding why extrapolation is hard compared to interpolation/generalization that most ML models do --
 https://towardsdatascience.com/real-artificial-intelligence-understanding-extrapolation-vs-generalization-b8e8dcf5fd4b
+
+9. Splitting data into training, cross validation and test sets ethically -- 
+https://www.geeksforgeeks.org/splitting-data-for-machine-learning-models/
+https://towardsdatascience.com/data-splitting-technique-to-fit-any-machine-learning-model-c0d7f3f1c790
